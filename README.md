@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto IA DIO: Aventura nas Cataratas: Um Conto de Família e Adrenalina
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto, utilizamos algumas das inúmeras tecnologias de IA Generativa existentes na atualidade.
+Com base apenas em fotos, foi possível criar uma história no formato texto, converter para um áudio e, solicitar a criação de uma página para disponibilizar esse áudio como um Poadcast.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas:
+
+- Google AI Studio (Gemini 1.5 Flash) - criação do texto e da página html;
+- Eleven Labs - geração de voz através de textos (text-to-speech (TTS));
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+O primeiro passo, foi subir no Google AI Studio as fotos da viagem.
+Com isso, solicitamos via prompt a criação da história, passando alguns direcionamentos sobre o tema e o tom que a história deveria ser criada.
+
+Feito isso, foi utilizado o Eleven Labs para gerar o áudio, contando a história criada anteriormente.
+
+Por fim, foi solicitado ao Gemini novamente, criar uma página Html para disponibilizar o áudio no formato de um Poadcast, onde foi ajustado apenas alguns detalhes do CSS para conter uma das fotos da viagem como fundo da página.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi uma história de aventura expressando emoção e adrenalina!
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É inquestionável o poder das IAs Generativas e, infinitas as possibilidades que podemos aplicar suas funções!
+Temos um futuro promissor e, ao mesmo tempo, imprevisível pela frente, em relação à essas tecnologias!
